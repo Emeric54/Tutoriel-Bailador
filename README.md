@@ -1,2 +1,2 @@
 # Tutoriel-Bailador
-Un tutoriel un français portant sur Perl 6 et le framework web Bailador.
+Un tutoriel français portant sur le framework web Perl 6.
